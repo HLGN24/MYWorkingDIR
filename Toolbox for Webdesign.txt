@@ -1,0 +1,17 @@
+Font Types
+SANS - SERIF DAHA CANLI, MODERN
+
+1. Inter
+2. Open Sans
+3. Roboto
+4. Montserrat
+5. Work Sans
+6. Lato
+
+SERIF KLASIK
+
+1. Merriweather
+2. Aleo
+3. Playfair Display
+4. Cormorant
+5. Cardo

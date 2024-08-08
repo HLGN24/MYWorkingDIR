@@ -1,0 +1,9 @@
+Html Validator --> Bir hatayla karşılaşırsam ve çözemezsem kullancağım.
+
+Blocku ortalama işlemi =
+.block {
+  border: 5px solid black;
+  margin: auto;
+  width: 50%;
+}
+
